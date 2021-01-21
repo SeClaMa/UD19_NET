@@ -1,0 +1,9 @@
+D:\Tic Curso Net\UD19\EJ2\EJ2\bin\Debug\EJ2.exe.config
+D:\Tic Curso Net\UD19\EJ2\EJ2\bin\Debug\EJ2.exe
+D:\Tic Curso Net\UD19\EJ2\EJ2\bin\Debug\EJ2.pdb
+D:\Tic Curso Net\UD19\EJ2\EJ2\obj\Debug\EJ2.Properties.Resources.resources
+D:\Tic Curso Net\UD19\EJ2\EJ2\obj\Debug\EJ2.csproj.GenerateResource.cache
+D:\Tic Curso Net\UD19\EJ2\EJ2\obj\Debug\EJ2.csproj.CoreCompileInputs.cache
+D:\Tic Curso Net\UD19\EJ2\EJ2\obj\Debug\EJ2.exe
+D:\Tic Curso Net\UD19\EJ2\EJ2\obj\Debug\EJ2.pdb
+D:\Tic Curso Net\UD19\EJ2\EJ2\obj\Debug\EJ2.Form1.resources

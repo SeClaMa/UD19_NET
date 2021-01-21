@@ -1,0 +1,10 @@
+D:\Tic Curso Net\UD19\EJ1\EJ1\bin\Debug\EJ1.exe.config
+D:\Tic Curso Net\UD19\EJ1\EJ1\bin\Debug\EJ1.exe
+D:\Tic Curso Net\UD19\EJ1\EJ1\bin\Debug\EJ1.pdb
+D:\Tic Curso Net\UD19\EJ1\EJ1\obj\Debug\EJ1.csprojAssemblyReference.cache
+D:\Tic Curso Net\UD19\EJ1\EJ1\obj\Debug\EJ1.Properties.Resources.resources
+D:\Tic Curso Net\UD19\EJ1\EJ1\obj\Debug\EJ1.csproj.GenerateResource.cache
+D:\Tic Curso Net\UD19\EJ1\EJ1\obj\Debug\EJ1.csproj.CoreCompileInputs.cache
+D:\Tic Curso Net\UD19\EJ1\EJ1\obj\Debug\EJ1.exe
+D:\Tic Curso Net\UD19\EJ1\EJ1\obj\Debug\EJ1.pdb
+D:\Tic Curso Net\UD19\EJ1\EJ1\obj\Debug\EJ1.Form1.resources
